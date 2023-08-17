@@ -1,1 +1,2 @@
 hello all,welcome to git class
+second line added
